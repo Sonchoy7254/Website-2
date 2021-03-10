@@ -1,0 +1,30 @@
+@media screen and (max-width: 1000px) {
+    .header-image-align {
+        text-align: center;
+    }
+    .align-items {
+        text-align: center;
+    }
+    .header-image {
+        transform: rotate(0);
+        margin: 50px 0;
+    }
+    .feacher-para {
+        width: 70%;
+        margin: 50px auto;
+    }
+    .testamonial-content {
+        padding: auto;
+    }
+    .testamonial-carousel{
+        padding: auto;
+    }
+    .testamonial-image {
+        width: 300px;
+        height: 300px;
+    }
+    .testamonial-para {
+        width: 300px;
+       }
+
+}

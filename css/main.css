@@ -1,0 +1,126 @@
+.nav-bg-color {
+    background-color: #17b978;
+    padding: 40px;
+}
+.logo {
+    font-size: 30px;
+    font-style: bold;
+    font-family: 'Pacifico', cursive;
+}
+.menu-item {
+    font-family: 'Courgette', cursive;
+    font-size: 19px;
+     
+}
+/* header section  */
+header {
+    background-color: #a7ff83;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Work Sans', sans-serif;
+}
+p {
+    line-height: 2;
+    font-size: 18px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.row-padding {
+    padding: 50px;
+}
+.header-main-content {
+    padding: 100px 0;
+    font-size: 5rem;
+    width: 110%;
+}
+.icon-margin {
+    margin-right: 20px;
+}
+.btn-margin {
+    margin: 20px;
+}
+.header-image-align {
+    text-align: right;
+}
+.header-image {
+    height: 600px;
+    width: 400px;
+}
+.header-image {
+    transform: rotate(15deg);
+}
+/* feacher section  */
+.feacher-image {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+.feacher-row {
+    margin: 100px 0 100px 0;
+    text-align: center;
+}
+.feacher-heading {
+    padding: 10px;
+}
+/* testamonial section  */
+.testamonial-carousel {
+    background-color: #a7ff83;
+    padding: 100px auto;
+}
+.testamonial-padding {
+    
+}
+.testamonial-content {
+    text-align: center;
+    padding: 100px;
+}
+.testamonial-image {
+    margin: 0 0 20px 0;
+}
+.testamonial-para {
+ width: 600px;
+ margin: auto;
+}
+.plane-section {
+    background-color: #17b978;
+    padding: 100px 100px;
+    margin: 100px auto;
+}
+/* last-section */
+.last-header {
+    font-size: 35px;
+    font-weight: 600;
+
+}
+.last-section-color {
+ background-color: #f9f9f9;   
+ text-align: center;
+ padding: 100px;
+}
+.content-last-section {
+    margin: 50px auto;
+}
+
+
+
+
+/* footer section */
+.content-footer {
+    background-color: #071a52;
+    text-align: center;
+    padding: 20px;
+}
+.social-icons {
+    outline: none;
+    color: #a7ff83;
+    padding: 20px;
+}
+.fab-margin {
+    margin: 30px;
+}
+.fab-margin:hover {
+ color: #17b978;
+}
+h6 {
+    color: #fff;
+    font-size: 12px;
+}
